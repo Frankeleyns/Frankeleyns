@@ -2,9 +2,9 @@
 
 
 Here are some information about me:
-- 📕 I’m currently reading book,such as:《Principles of Economics》《Mao：A Biography》《Poor Charlie's Almanack》
+- 📕 I’m currently reading book,such as:《Principles of Economics》《The Road Less Traveled》
 
-  我目前正在看书，比如：《经济学原理》《毛泽东传》《穷查理宝典》
+  我目前正在看书，比如：《经济学原理》《少有人走的路》
 
 - 🤔 I’m looking for a way to make a lot of money💴
 
