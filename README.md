@@ -10,13 +10,5 @@ Here are some information about me:
 
   我正在寻找赚很多钱的办法
 
-- ⚡ Fun fact: I was born in 2000
-
-  我是00后
-
-- 📫 How to reach me: Download WeChat and follow my official account
-  （you can scan my QR code👇）
+- 📫 Welcome to my blog [click me](https://growthlj.github.io/)
   
-  ​				欢迎关注我的公众号👇
-
-![GrowthLj.jpg](https://i.loli.net/2021/02/04/v2fcFdgyNHI3zP6.jpg)
