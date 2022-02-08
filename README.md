@@ -10,5 +10,5 @@ Here are some information about me:
 
   我正在寻找赚很多钱的办法
 
-- 📫 Welcome to my blog [click me](https://growthlj.github.io/)
+- 📫 Welcome to my blog [click me](https://frankeleyns.github.io/)
 
